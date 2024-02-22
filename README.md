@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varun Agrawal</h1>
+<h1 align="center">Hi 👋, I'm Ashika Jain</h1>
 <h3 align="center">A passionate third-year student on a journey to becoming a Full Stack Developer. I thrive on challenges and am deeply enthusiastic about exploring cutting-edge technologies like Blockchain, Artificial Intelligence, and Cloud Computing. Join me as I navigate the world of coding and contribute to the next generation of innovative solutions!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamania69&label=Profile%20views&color=0e75b6&style=flat" alt="vamania69" /> </p>
