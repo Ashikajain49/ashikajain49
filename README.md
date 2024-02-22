@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashika Jain</h1>
 <h3 align="center">A passionate third-year student on a journey to becoming a Full Stack Developer. I thrive on challenges and am deeply enthusiastic about exploring cutting-edge technologies like Blockchain, Artificial Intelligence, and Cloud Computing. Join me as I navigate the world of coding and contribute to the next generation of innovative solutions!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vamania69&label=Profile%20views&color=0e75b6&style=flat" alt="vamania69" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamania69" alt="vamania69" /></a> </p>
 
 - 🔭 I’m currently working on **Freelance Project which a B2B Brand in the U.S**
 
@@ -11,11 +8,7 @@
 
 - 👯 I’m looking to collaborate on **blog project which is dynamic blog website on new gen technologies.**
 
-- 👨‍💻 All of my projects are available at [github.com/vamania69](github.com/vamania69)
-
 - 💬 Ask me about **web development and Google Cloud Platform**
-
-- 📫 How to reach me **Varunagrawal6261@gmail.com**
 
 - ⚡ Fun fact **I like to motivate people and interact with them.**
 
