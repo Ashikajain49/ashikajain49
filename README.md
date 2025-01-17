@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashika Jain</h1>
-<h3 align="center">A passionate third-year student on a journey to becoming a Full Stack Developer. I thrive on challenges and am deeply enthusiastic about exploring cutting-edge technologies like Blockchain, Artificial Intelligence, and Cloud Computing. Join me as I navigate the world of coding and contribute to the next generation of innovative solutions!</h3>
+<h3 align="center">A passionate Fourth -year student on a journey to becoming a UI/UX Designer. I thrive on challenges and am deeply enthusiastic about exploring cutting-edge technologies like UI Designing, UX Research, Product Designing, Branding. Join me as I navigate the world of designing and contribute to the next generation of innovative solutions!</h3>
 
 
 - 🔭 I’m currently working on **Freelance Project which a B2B Brand in the U.S**
